@@ -1,0 +1,89 @@
+.ctn-lookup-bar {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-top: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(200, 200, 200);
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: space-between;
+}
+
+.ctn-lookup-button {
+    margin-left: 10px;
+}
+
+.ctn-lookup-info {
+    color: rgb(130, 130, 130);
+    margin-left: 10px;
+}
+.success-message {
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #237804;
+}
+
+.success-icon {
+    margin-right: 12px;
+    font-size: 24px;
+}
+
+.padding-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #52c41a;
+}
+
+.cursor-pointer:hover {
+    cursor: pointer;
+}
+
+.lookup-description-container {
+    width: 100%;
+    justify-content: space-between;
+}
+
+.detail-view-main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.detail-view-container {
+    display: flex;
+    margin-right: 20px;
+}
+
+.detail-view-heading {
+    min-width: 180px;
+    font-weight: 600;
+    color: rgb(114, 114, 114);
+}
+
+.detail-view-data {
+    min-width: 180px;
+    font-weight: 600;
+    color: rgb(114, 114, 114);
+}
+
+.mt-5 {
+    margin-top: 50px;
+}
+.ctn-lookup-select {
+    width: 200px !important;
+}
+
+.de-enroll-field {
+    width: 250px !important;
+}
+.de-enrollment-form-container {
+    padding: 1rem;
+}
